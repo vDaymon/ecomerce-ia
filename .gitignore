@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+env/
+
+# Environment variables
+.env
+
+# Databases and generated data
+data/
+*.db
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
